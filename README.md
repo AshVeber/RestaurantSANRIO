@@ -11,4 +11,4 @@ In vscode: ctrl+shit+B
 You can choose your waiter and order some stuff
 
 # Plans
-- none
+- none yet
